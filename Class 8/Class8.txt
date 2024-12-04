@@ -1,4 +1,0 @@
-Class 8: Introduction to Web Design Tools
-Figma: For wireframing and prototypes.
-Canva: For creating graphics.
-Photoshop: For image editing.
