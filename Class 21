@@ -1,8 +1,0 @@
-cd example-app
-npm install && npm run build
-composer run dev
-
-laravel new example-app
-
-
-composer global require laravel/installer
