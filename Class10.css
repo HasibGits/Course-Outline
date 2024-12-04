@@ -1,0 +1,8 @@
+Class 10: Accessibility in Web Design
+Principles
+Use semantic HTML (<header>, <main>, <footer>).
+Add descriptive alt attributes for images.
+
+##### ARIA Attributes ########
+
+<button aria-label="Close">X</button>
